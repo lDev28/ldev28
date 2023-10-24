@@ -3,6 +3,7 @@
    <h3>Front-end developer from Turkmenabat</h3>
 </div>
 
+<!---
 <div id="socials" align="center">
   <a href="https://t.me/#Arslan...">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/> 
@@ -14,8 +15,8 @@
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white"/> 
   </a>
 </div>
+-->
 
-<br>
 <br>
 
 ### About me
